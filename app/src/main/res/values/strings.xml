@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoSimpleClick</string>
+    <string name="EnterSomething">Enter Something !</string>
+    <string name="btnText">Display</string>
+    <string name="EditName">Enter Something</string>
+    <string name="tvResult">Display What The User Enters</string>
+</resources>
